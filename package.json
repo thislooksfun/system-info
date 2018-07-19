@@ -1,0 +1,22 @@
+{
+  "name": "system-info",
+  "version": "1.0.0-alpha",
+  "description": "A small package to get system usage information.",
+  "main": "sysinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thislooksfun/system-info.git"
+  },
+  "author": "thislooksfun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thislooksfun/system-info/issues"
+  },
+  "homepage": "https://github.com/thislooksfun/system-info#readme",
+  "dependencies": {
+    "circular-buffer": "^1.0.2"
+  }
+}
